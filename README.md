@@ -15,6 +15,7 @@ Unity features that this game use are:
  - Simple UI Score 
 
 Some gameplay footage: 
+
 ![ArgonAssaultGameplay](https://github.com/filipmihaljcic/argon-assault-unity/blob/main/images/ArgonAssaultGameplayGif.gif)
 
 
