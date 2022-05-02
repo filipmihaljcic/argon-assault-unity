@@ -37,9 +37,7 @@ namespace Project.Scripts
         {
             ProcessHit();
             if (hits <= 1)
-            {
                 KillEnemy();
-            }
         }
 
         private void ProcessHit()
