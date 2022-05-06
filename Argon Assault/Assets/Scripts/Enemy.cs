@@ -21,7 +21,7 @@ namespace Project.Scripts
 
         ScoreBoard scoreBoard;
 
-	    private void Start ()
+	private void Start ()
         {
             AddBoxCollider();
             scoreBoard = FindObjectOfType<ScoreBoard>();
